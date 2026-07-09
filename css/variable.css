@@ -1,1 +1,30 @@
+:root{
 
+    /* COLORS */
+
+    --background:#0F0F10;
+    --surface:#18181B;
+    --surface-light:#222228;
+
+    --text:#F8F8F6;
+    --text-light:#A8A8B3;
+
+    --accent:#E6007E;
+    --accent-hover:#ff2b9b;
+
+    --border:#2B2B33;
+
+    /* TYPOGRAPHY */
+
+    --font-heading:"Cormorant Garamond", serif;
+    --font-body:"Inter", sans-serif;
+
+    /* SPACING */
+
+    --section-padding:120px;
+
+    --radius:18px;
+
+    --transition:.35s ease;
+
+}
